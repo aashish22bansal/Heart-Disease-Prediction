@@ -1,0 +1,23 @@
+python - Scikit learn SVC predict probability doesn't work as expected - Stack Overflow
+https://stackoverflow.com/questions/43036711/scikit-learn-svc-predict-probability-doesnt-work-as-expected
+
+NameError: name 'roc_auc_score' is not defined site:stackoverflow.com - Google Search
+https://www.google.com/search?q=NameError%3A%20name%20%27roc_auc_score%27%20is%20not%20defined+site:stackoverflow.com
+
+AttributeError: 'DecisionTreeClassifier' object has no attribute 'decision_function' site:stackoverflow.com - Google Search
+https://www.google.com/search?q=AttributeError%3A%20%27DecisionTreeClassifier%27%20object%20has%20no%20attribute%20%27decision_function%27+site:stackoverflow.com
+
+python - AttributeError: 'DecisionTreeClassifier' object has no attribute 'precision_score' - Stack Overflow
+https://stackoverflow.com/questions/64265406/attributeerror-decisiontreeclassifier-object-has-no-attribute-precision-scor
+
+Heart Disease Prediction using Machine Learning Techniques.ipynb - Colaboratory
+https://colab.research.google.com/drive/1hLvU169nhukD8UwG_HBfDe8N8R-Th5ot#scrollTo=vwfAC2OyP4gy&uniqifier=1
+
+sklearn.model_selection.RandomizedSearchCV — scikit-learn 1.2.2 documentation
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+
+decision_function in python - Google Search
+https://www.google.com/search?q=decision_function+in+python&oq=decision_function&aqs=chrome.2.69i57j0i512l9.5966j0j7&sourceid=chrome&ie=UTF-8
+
+ML - Decision Function - GeeksforGeeks
+https://www.geeksforgeeks.org/ml-decision-function/
