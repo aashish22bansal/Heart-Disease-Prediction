@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 
 
 # Importing the learned model
-pickle_in = open("model.pk1", "rb")
+pickle_in = open("/home/appuser/model.pk1", "rb")
 classifier = pickle.load(pickle_in)
 
 # Setting the Configuration of the Page
